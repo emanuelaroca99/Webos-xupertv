@@ -1,0 +1,13 @@
+{
+  "id": "com.webosflux.xuptertv.fidelity",
+  "version": "1.6.15",
+  "type": "web",
+  "title": "XuperTV",
+  "appDescription": "Aplicación XuperTV para webOS",
+  "iconUri": "https://raw.githubusercontent.com/emanuelaroca99/Webos-xupertv/main/icon.png",
+  "sourceUrl": "https://github.com/emanuelaroca99/Webos-xupertv",
+  "ipkUrl": "https://raw.githubusercontent.com/emanuelaroca99/Webos-xupertv/main/Xupertv.ipk",
+  "ipkHash": {
+    "sha256": "7e604488dd4c32ea73ceea240089139295a65fdd7c82877b6ebec3f5a1595997"
+  }
+}

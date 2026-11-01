@@ -1,0 +1,16 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.webosflux.xuptertv.fidelity",
+      "title": "XuperTV",
+      "iconUri": "https://raw.githubusercontent.com/emanuelaroca99/Webos-xupertv/main/icon.png",
+      "manifestUrl": "https://raw.githubusercontent.com/emanuelaroca99/Webos-xupertv/main/xuptertv.manifest.json"
+    }
+  ]
+}
